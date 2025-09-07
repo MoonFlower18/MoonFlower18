@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>
-      <img src="https://i.ibb.co/NzfrZMb/sticker.png" width="200"/>
+      <img src="https://i.ibb.co/NzfrZMb/sticker.png" width="250"/>
     </h1>
 </div>
 
@@ -19,8 +19,8 @@
 
 <br>
 
-| Языки программирования | Статистика |
-| :--- | :--- |
+| **Языки программирования** | **Статистика использования** |
+| :--: | :--: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="С#" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/> | <a href="https://github.com/MoonFlower18/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonFlower18&layout=compact&theme=transparent&locale=ru&hide_border=true&card_width=383px&hide_title=true"></a> |
 
 
@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="40" height="40"/>&nbsp; -->
 
 
-### Статистика
+#### Общая статистика активности
 
 <div id="stat" align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonFlower18&theme=github_dark"/>
