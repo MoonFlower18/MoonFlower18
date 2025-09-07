@@ -4,20 +4,11 @@
     </h1>
 </div>
 
-<div id="socials" align="center">
-  <table=0>
-    <tr>
-      <td>
-        <a href="https://vk.com/jessy_heartwest"><img src="https://img.shields.io/badge/VK-A52F1E?style=for-the-badge&logo=VK&logoColor=white"/></a>
-      </td>
-      <td>
-        <a href="https://t.me/jur_yuliya"><img src="https://img.shields.io/badge/Telegram-A52F1E?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-      </td>
-  </tr>
-  </table>
-</div>
+### Кто я?
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Маленький невдуплёныш, желающий стать безопасником \
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Активный участник CTF-соревнований \
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Любитель чая и мемов с котиками 
 
-<br>
 
 | **Языки программирования** | **Статистика использования** |
 | :--: | :--: |
@@ -47,3 +38,18 @@
 <div id="stat" align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonFlower18&theme=github_dark"/>
 </div>
+
+
+
+<!-- <div id="socials" align="center">
+  <table=0>
+    <tr>
+      <td>
+        <a href="https://vk.com/jessy_heartwest"><img src="https://img.shields.io/badge/VK-A52F1E?style=for-the-badge&logo=VK&logoColor=white"/></a>
+      </td>
+      <td>
+        <a href="https://t.me/jur_yuliya"><img src="https://img.shields.io/badge/Telegram-A52F1E?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+      </td>
+  </tr>
+  </table>
+</div> -->
