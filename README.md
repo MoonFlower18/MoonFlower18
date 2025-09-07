@@ -6,7 +6,7 @@
 
 ### Кто я?
 <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Маленький невдуплёныш, желающий стать безопасником \
-<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Активный участник CTF-соревнований \
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Начинающий участник CTF-соревнований \
 <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f337.png" width=20 height=20> Любитель чая и мемов с котиками 
 
 
